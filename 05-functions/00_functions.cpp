@@ -2,6 +2,7 @@
 
 // Function without arguments
 void sayHello() {
+    // a function with void return type doesn't return anything
     std::cout << "Hello, world!" << std::endl;
 }
 
