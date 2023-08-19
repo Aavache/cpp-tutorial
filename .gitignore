@@ -2,6 +2,9 @@
 a.out
 *.exe
 
+# Output files
+*.txt
+
 # IDE
 .vscode/
 
