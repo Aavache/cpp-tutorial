@@ -17,7 +17,7 @@ According to this helpful [resource](https://www.mycplus.com/tutorials/cplusplus
 
 # Compile and run the examples
 
-The following will compile the code:
+Choose and install your favorite C++ compiler (I will use g++), then compile and execute the output bianry, here's what I do to run the first `hello world` example:
 
 ```sh
 cd 01-hello-world
