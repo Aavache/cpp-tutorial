@@ -1,7 +1,7 @@
 # C++ Tutorial
+Learn C++ in couple minutes with this short tutorial about syntax C++.
 
-
-# Syntax
+# Conventions
 
 C++ uses CamelCase convention for writing the names of functions, variables, constants, CamelCase is a naming convention where a name is formed of multiple words that are joined together as a single word with the first letter of each of the word capitalized.
 
@@ -15,7 +15,7 @@ According to this helpful [resource](https://www.mycplus.com/tutorials/cplusplus
 5. **Execution**: Finally, the compiler produces and executable file that runs on the computer system.
 
 
-# Run the code
+# Compile and run the examples
 
 The following will compile the code:
 
