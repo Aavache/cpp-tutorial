@@ -34,5 +34,13 @@ int main(){
     // Remainder by 2, this returns the remainder of the division by 2
     a %= 2;
 
+
+    // Difference between pre-increment and post-increment
+    a = 5;
+    int b = a++;  // b gets the value 5, then a becomes 6
+
+    a = 5;
+    int b = ++a;  // a becomes 6, then b gets 6
+
     return 0
 }
