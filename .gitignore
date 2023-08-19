@@ -1,2 +1,9 @@
+# Binaries
 a.out
 *.exe
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
