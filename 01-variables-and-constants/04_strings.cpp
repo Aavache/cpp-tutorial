@@ -3,6 +3,7 @@
 
 int main() {
     // Strings are sequences of characters and are declared using double quotes
+    // Although they are not primitive types, they are very common and easy to get started with.
 
     // Declare and initialize strings
     std::string greeting = "Hello, ";
