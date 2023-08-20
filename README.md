@@ -7,7 +7,7 @@ Learn C++ in one evening with this brief yet straight to the point tutorial.
 
 # About this repository
 
-We divided the repository is sections starting from `00_hello_world`. Each of the sections will teach you gradually the syntax of C++, from zero to (almost) hero.
+We divided the repository is sections starting from `00_hello_world`. Each of the sections will teach you gradually the syntax of C++, from zero to (almost) hero. Drop a ⭐️ if you found it helpful!.
 
 # Compile and run the examples
 
