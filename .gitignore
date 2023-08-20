@@ -10,3 +10,10 @@ a.out
 
 # OS
 .DS_Store
+
+# CMake exceptions
+!build/
+!CMakeLists.txt
+!CMakeCache.txt
+!TargetDirectories.txt
+!link.txt
