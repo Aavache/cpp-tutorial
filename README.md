@@ -5,6 +5,10 @@ Learn C++ in one evening with this brief yet straight to the point tutorial.
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 </div>
 
+<p align="center">
+  <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+</p>
+
 # About this repository
 
 We divided the repository is sections starting from `00_hello_world`. Each of the sections will teach you gradually the syntax of C++, from zero to (almost) hero.
@@ -15,13 +19,13 @@ Choose and install your favorite C++ compiler (I will use g++). If you wish to l
 
 ```sh
 cd 01-hello-world
-g++ 00_hello_world.cpp -o hello
+g++ 00_hello_world.cpp
 ```
 
 Finally, we can execute the binary as:
 
 ```sh
-./hello
+./a.out
 ```
 
 # How compilation works
