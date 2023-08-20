@@ -1,10 +1,6 @@
 # C++ Tutorial   💻 💾 
 Learn C++ in one evening with this brief yet straight to the point tutorial.
 
-<div style="text-align: center; width: 200px; height: 200px; margin:auto;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-</div>
-
 <p align="center">
   <img width="200" height="200" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 </p>
